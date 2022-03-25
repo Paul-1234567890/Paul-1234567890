@@ -1,5 +1,5 @@
-Hi, I'm an undergraduate student at the University of Waterloo.
-Reach me at https://www.linkedin.com/in/paul-staadecker-1070581b2/.
+Undergraduate mathematics student at the University of Waterloo.
+Contact here: https://www.linkedin.com/in/paul-staadecker-1070581b2/.
 
 <!---
 Paul-1234567890/Paul-1234567890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

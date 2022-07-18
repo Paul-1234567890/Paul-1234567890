@@ -1,4 +1,4 @@
-Undergraduate mathematics student at the University of Waterloo.
+Undergraduate computer science and mathematics student at the University of Waterloo.
 Contact here: https://www.linkedin.com/in/paul-staadecker-1070581b2/.
 
 <!---
